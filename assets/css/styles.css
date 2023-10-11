@@ -19,8 +19,8 @@ body {
 }
 
 .container {
-  max-width: 640px;
-  margin: 50px auto;
+  max-width: 27.5rem;
+  margin: 25vh auto;
   background: #fff;
   padding: 20px;
   border-radius: 10px;
@@ -58,7 +58,7 @@ form button:hover {
 }
 
 .calculadora {
-  width: 400px;
+  width: 25rem;
 }
 
 .display {
